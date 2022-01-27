@@ -15,3 +15,4 @@ Where I am from, you have to have a big celebration when you turn 18. Like a hug
 I didn’t want to wear dresses or do the 18 roses dance or find my escort so I asked for a Hong Kong trip instead. I always wanted to go to Disneyland!
 
 My mom agreed with the condition that she and my siblings come to the trip. That was my first trip outside of my country and I enjoyed it a lot!
+---
