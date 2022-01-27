@@ -3,7 +3,7 @@ title: My first Blog
 author: Bhavna Jain
 email: jainbhavna4545@gmail.com
 theme: minima
----
+
 description: > # this means to ignore newlines until "baseurl:"
   Hey, I am Bhavna Jain. I am currently pursuing B.tech final year in IT from Banashali Vidyapith Jaipur. 
   My Hobbies are Reading, writing, Drama.
@@ -19,3 +19,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username: bhavna-jain409
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
