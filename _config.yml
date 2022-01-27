@@ -1,13 +1,22 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "My first  Blog"
+date: 2022-01-27
+author: "Bhavna Jain"
+email: jainbhavna4545@gmail.com
+theme: minima
+---
+
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hey, I am Bhavna Jain. I am currently pursuing B.tech final year in IT from Banashali Vidyapith Jaipur. 
+  My Hobbies are Reading, writing, Drama.
+  I am a ISDL intern in IBM.
+  I am a upcoming Software engineer at Optum.
+  I live in Mathura which is a very holistic place.
+  I am strong determined to change my inner and outer world trough my actions and keep hustling for that.
+  I love myself.
+  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username: bhavna-jain409
 
-show_excerpts: true # set to false to remove excerpts on the homepage
