@@ -1,12 +1,11 @@
 ---
 title: "My first  Blog"
 date: 2022-01-27
-author: Bhavna Jain
+author: "Bhavna Jain"
 email: jainbhavna4545@gmail.com
 theme: minima
 ---
 
----
 description: > # this means to ignore newlines until "baseurl:"
   Hey, I am Bhavna Jain. I am currently pursuing B.tech final year in IT from Banashali Vidyapith Jaipur. 
   My Hobbies are Reading, writing, Drama.
@@ -20,4 +19,4 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username: bhavna-jain409
----
+
