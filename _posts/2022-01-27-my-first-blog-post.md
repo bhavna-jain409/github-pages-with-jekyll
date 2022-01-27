@@ -1,3 +1,7 @@
+ ---
+title: "My first blog"
+date: 2022-01-27
+---
  ## Hello! Hola! Bonjour! Welcome to my world!
 Born and raised in Subic Bay, Philippines, 
 Trisha is one of those people who left their comfortable life to travel the world and learn about life. 
